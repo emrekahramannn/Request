@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Distribution / packaging
+.Python
+downloads/
+lib/
+lib64/
+
+
+# PEP 582; used by e.g. github.com/David-OConnor/pyflow and github.com/pdm-project/pdm
+__pypackages__/
+
+
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+
+.token
+0-intro-exercise.py
+1-exchange-app.py
+3-CryptoCrazyProject.py
+4-gui-crypto.py
+asyncAndThreading.py 
+rest-api.py
+movie-api.py
