@@ -28,3 +28,9 @@ venv/
 asyncAndThreading.py 
 rest-api.py
 movie-api.py
+
+Assignment/api_key.txt
+Assignment/to-dos.txt
+Assignment/weather.png
+Assignment/hacker-news.py
+Assignment/pokemon.py
