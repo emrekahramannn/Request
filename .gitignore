@@ -28,9 +28,14 @@ venv/
 asyncAndThreading.py 
 rest-api.py
 movie-api.py
+crypto.png
 
 Assignment/api_key.txt
 Assignment/to-dos.txt
 Assignment/weather.png
 Assignment/hacker-news.py
 Assignment/pokemon.py
+
+Examples/.recursion
+Examples/facebook-subdomain.txt
+Examples/subdomainlist.txt
